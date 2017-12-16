@@ -1,0 +1,72 @@
+table.chinese {
+	border: 1px solid #888888;
+	border-collapse: collapse;
+	margin:auto;
+}
+
+table.chinese tr.pinyin td {
+	border: 1px solid #888888;
+	width: 24px;
+	height: 12px;
+	font-size: 12px;
+}
+
+table.chinese tr.hanzitop td, table.chinese tr.hanzibottom td {
+	border: 1px solid #888888;
+	border-style: dotted;
+	width: 24px;
+	height: 24px;
+	vertical-align: text-top;
+}
+
+tr.hanzitop td:nth-of-type(odd), tr.hanzibottom td:nth-of-type(even) {
+  background-image: linear-gradient(
+	to top right,
+	white 49%,
+	#AAAAAA,
+	white 51%
+  );
+}
+
+tr.hanzitop td:nth-of-type(even), tr.hanzibottom td:nth-of-type(odd) {
+  background-image: linear-gradient(
+	to bottom right,
+	white 49%,
+	#AAAAAA,
+	white 51%
+  );
+}
+
+div.character {
+	position: absolute;
+	z-index: 0;
+	width: 50px;
+	height: 50px;
+	font-size: 40px;
+	color: #3c1951;
+	font-family: "楷体", KaiTi, "华文楷体", STKaiti;
+	line-height: 50px;
+}
+
+table.chinese tr.hanzitop td:nth-child(even), table.chinese tr.hanzibottom td:nth-child(even) {
+	border-right: 1px solid #888888;
+}
+
+table.quizz {
+	display: inline-block;
+	margin-right: 24px;
+}
+
+table.quizz td {
+	text-align: center;
+}
+
+#afterQuizz {
+	display: none;
+}
+
+
+table.menu td {
+	vertical-align: top;
+	padding-right: 50px;
+}

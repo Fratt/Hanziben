@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+	<link rel="stylesheet" href="hanziben.css" />
+	<script src="data.js"></script>
+	<script src="hanziben.js"></script>
+	<style type="text/css" media="print">
+		.hideOnPrint {
+			display: none;
+		}
+	</style>
+</head>
+<body>
+	<h2 class="title">
+		Quizz Hanziben
+	</h2>
+	<div id="quizzSettings" class="hideOnPrint">
+		<table class="menu"><tr><td>
+		Leçons: <a id="checkAllNoneLink" href="">Toutes / aucunes</a><br />
+		<ul id="lessonsDiv"></ul>
+		Nombre de mots: <select id="quizzSizeText">
+		<option value="0">Tous</option>
+		<option value="10">10</option>
+		<option value="20">20</option>
+		<option value="30">30</option>
+		<option value="40">40</option>
+		<option value="50">50</option>
+		<option value="100">100</option>
+		</select><br/>
+		Afficher les pinyins: <input type="checkbox" id="showPinyin" checked="checked" /><br/>
+		Afficher le chinois: <input type="checkbox" id="showCharacters" /><br/><br/>
+		</td><td>
+			<b>Quoi de neuf?</b>
+			<ul>
+				<li>Il est maintenant possible d'afficher les caractères chinois pour imprimer la solution!</li>
+				<li>Pour apprendre les mots / prononciation, <a href="https://www.memrise.com/course/1416021/le-chinois-contemporain-volume-1/">mon cours sur Memrise</a>.</li>
+			</ul>
+		</td></tr></table>
+		<input type="button" value="Générer!" id="generateButton" /> 
+		<hr />
+	</div>
+	<div id="quizz">
+	</div>
+	<div class="hideOnPrint">
+		<div id="afterQuizz">
+			<hr />
+			<input type="button" value="Imprimer" onclick="print();" /> 
+		</div>
+	</div>
+</body>
+</html>
