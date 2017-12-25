@@ -152,10 +152,10 @@ var hanziben =
 			]
 		},
 		{
-			lesson: "4 (partie 1)",
+			lesson: "4",
 			words: [
 				{ fr: "carte", zh: "", pinyin: ["di4", "tu2"] },
-				{ fr: "spécif. (papier)", zh: "", pinyin: ["zhang1"] },
+				{ fr: "spécif.<br/>(papier)", zh: "", pinyin: ["zhang1"] },
 				{ fr: "regarder", zh: "", pinyin: ["kan4"] },
 				{ fr: "d'accord", zh: "", pinyin: ["xing4"] },
 				{ fr: "vouloir", zh: "", pinyin: ["yao4"] },
@@ -167,6 +167,19 @@ var hanziben =
 				{ fr: "signification", zh: "", pinyin: ["yi4", "si1"] },
 				{ fr: "dragon", zh: "", pinyin: ["long2"] },
 				{ fr: "montagne", zh: "", pinyin: ["shan1"] },
+				{ fr: "dictionnaire", zh: "词典", pinyin: ["ci2", "dian3"] },
+				{ fr: "spécif.<br/>(livre)", zh: "本", pinyin: ["ben3"] },
+				{ fr: "qui", zh: "谁", pinyin: ["shui2"] },
+				{ fr: "demander", zh: "问", pinyin: ["wen4"] },
+				{ fr: "très", zh: "非常", pinyin: ["fei1", "chang2"] },
+				{ fr: "utiliser", zh: "用", pinyin: ["yong4"] },
+				{ fr: "pouvoir", zh: "能", pinyin: ["neng2"] },
+				{ fr: "bien sûr", zh: "当然", pinyin: ["dang1", "ran2"] },
+				{ fr: "livre", zh: "书", pinyin: ["shu1"] },
+				{ fr: "stylo", zh: "笔", pinyin: ["bi3"] },
+				{ fr: "spécif.<br/>(stylos)", zh: "支", pinyin: ["zhi1"] },
+				{ fr: "salle de classe", zh: "教室", pinyin: ["jiao4", "shi4"] },
+				{ fr: "leçon", zh: "课", pinyin: ["ke4"] }
 			]
 		},
 		{
@@ -199,8 +212,7 @@ var hanziben =
 				{ fr: "vinaigre", zh: "醋", pinyin: ["cu4"] },
 				{ fr: "poisson", zh: "鱼", pinyin: ["yu2"] },
 				{ fr: "acide", zh: "酸", pinyin: ["suan"] },
-				{ fr: "piquant", zh: "辣", pinyin: ["la4"] }/*,
-				// ---
+				{ fr: "piquant", zh: "辣", pinyin: ["la4"] },
 				{ fr: "soupe", zh: "汤", pinyin: ["tang1"] },
 				{ fr: "bœuf", zh: "牛肉", pinyin: ["niu2", "rou4"] },
 				{ fr: "cuire", zh: "烧", pinyin: ["shao1"] },
@@ -211,7 +223,7 @@ var hanziben =
 				{ fr: "ouest", zh: "西", pinyin: ["xi1"] },
 				{ fr: "magasin", zh: "商店", pinyin: ["shang1", "dian4"] },
 				{ fr: "vendre", zh: "卖", pinyin: ["mai4"] },
-				{ fr: "vêtements", zh: "衣服", pinyin: ["yi1", "fu"] }*/
+				{ fr: "vêtements", zh: "衣服", pinyin: ["yi1", "fu"] }
 			]
 			
 		}
