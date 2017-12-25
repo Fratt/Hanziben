@@ -6,16 +6,16 @@ table.chinese {
 
 table.chinese tr.pinyin td {
 	border: 1px solid #888888;
-	width: 24px;
-	height: 12px;
-	font-size: 12px;
+	width: 30px;
+	height: 15px;
+	font-size: 15px;
 }
 
 table.chinese tr.hanzitop td, table.chinese tr.hanzibottom td {
 	border: 1px solid #888888;
 	border-style: dotted;
-	width: 24px;
-	height: 24px;
+	width: 30px;
+	height: 30px;
 	vertical-align: text-top;
 }
 
@@ -40,12 +40,12 @@ tr.hanzitop td:nth-of-type(even), tr.hanzibottom td:nth-of-type(odd) {
 div.character {
 	position: absolute;
 	z-index: 0;
-	width: 50px;
-	height: 50px;
-	font-size: 40px;
+	width: 62px;
+	height: 62px;
+	font-size: 50px;
 	color: #3c1951;
 	font-family: "楷体", KaiTi, "华文楷体", STKaiti;
-	line-height: 50px;
+	line-height: 62px;
 }
 
 table.chinese tr.hanzitop td:nth-child(even), table.chinese tr.hanzibottom td:nth-child(even) {
@@ -54,7 +54,6 @@ table.chinese tr.hanzitop td:nth-child(even), table.chinese tr.hanzibottom td:nt
 
 table.quizz {
 	display: inline-block;
-	margin-right: 24px;
 }
 
 table.quizz td {
