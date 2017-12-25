@@ -187,7 +187,7 @@ var hanziben =
 			checked: true,
 			words: [
 				{ fr: "mademoiselle", zh: "小姐", pinyin: ["xiao3", "jie3"] },
-				{ fr: "savoir faire qqch", zh: "会", pinyin: ["hui4"] },
+				{ fr: "savoir faire<br/>qqch", zh: "会", pinyin: ["hui4"] },
 				{ fr: "un peu", zh: "一点儿", pinyin: ["yi4", "dianr3", ""] },
 				{ fr: "monsieur", zh: "先生", pinyin: ["xian1", "sheng1"] },
 				{ fr: "acheter", zh: "买", pinyin: ["mai3"] },

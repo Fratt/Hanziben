@@ -89,7 +89,7 @@ function printQuizz(quizzSize, lessons, showPinyin, showCharacters) {
 		$("div.character").hide();
 		
 	// We set the page title
-	$("h2.title").text("Quizz Hanziben (leçon" + (lessons.length > 1 ? "s" : "") + " " + lessons.join(", ") + ")");
+	$("h2.title").text("Dictée Hanziben (leçon" + (lessons.length > 1 ? "s" : "") + " " + lessons.join(", ") + ")");
 }
 
 function generateLessonList() {
