@@ -3,52 +3,52 @@ var hanziben =
 		{
 			lesson: "0",
 			words: [
-				{ fr: "un", zh: "", pinyin: ["yi1"] },
-				{ fr: "deux", zh: "", pinyin: ["er4"] },
-				{ fr: "trois", zh: "", pinyin: ["san1"] },
-				{ fr: "quatre", zh: "", pinyin: ["si4"] },
-				{ fr: "cinq", zh: "", pinyin: ["wu3"] },
-				{ fr: "six", zh: "", pinyin: ["liu4"] },
-				{ fr: "sept", zh: "", pinyin: ["qi1"] },
-				{ fr: "huit", zh: "", pinyin: ["ba1"] },
-				{ fr: "neuf", zh: "", pinyin: ["jiu3"] },
-				{ fr: "dix", zh: "", pinyin: ["shi2"] },
-				{ fr: "homme", zh: "", pinyin: ["ren2"] },
+				{ fr: "un", zh: "一", pinyin: ["yi1"] },
+				{ fr: "deux", zh: "二", pinyin: ["er4"] },
+				{ fr: "trois", zh: "三", pinyin: ["san1"] },
+				{ fr: "quatre", zh: "四", pinyin: ["si4"] },
+				{ fr: "cinq", zh: "五", pinyin: ["wu3"] },
+				{ fr: "six", zh: "六", pinyin: ["liu4"] },
+				{ fr: "sept", zh: "七", pinyin: ["qi1"] },
+				{ fr: "huit", zh: "八", pinyin: ["ba1"] },
+				{ fr: "neuf", zh: "九", pinyin: ["jiu3"] },
+				{ fr: "dix", zh: "十", pinyin: ["shi2"] },
+				{ fr: "homme", zh: "人", pinyin: ["ren2"] },
 				/*{ fr: "grand", pinyin: ["da4"] },*/
 				/*{ fr: "bouche", pinyin: ["kou3"] },*/
 				/*{ fr: "milieu", pinyin: ["zhong1"] },*/
 				/*{ fr: "petit", pinyin: ["xiao3"] },*/
-				{ fr: "dessus", zh: "", pinyin: ["shang4"] },
-				{ fr: "dessous", zh: "", pinyin: ["xia4"] },
+				{ fr: "dessus", zh: "上", pinyin: ["shang4"] },
+				{ fr: "dessous", zh: "下", pinyin: ["xia4"] },
 				/*{ fr: "pays", pinyin: ["guo2"] },*/
-				{ fr: "Chine", zh: "", pinyin: ["Zhong1", "guo2"] },
-				{ fr: "étudier, apprendre", zh: "", pinyin: ["xue2", "xi2"] },
+				{ fr: "Chine", zh: "中国", pinyin: ["Zhong1", "guo2"] },
+				{ fr: "étudier, apprendre", zh: "学习", pinyin: ["xue2", "xi2"] },
 				/*{ fr: "langage (1)", pinyin: ["yu3"] },*/
 				/*{ fr: "langage (2)", pinyin: ["wen2"] },*/
-				{ fr: "écrire", zh: "", pinyin: ["xie3"] },
+				{ fr: "écrire", zh: "写", pinyin: ["xie3"] },
 				/*{ fr: "caractère", pinyin: ["zi4"] },*/
 				/*{ fr: "langue chinoise (1)", pinyin: ["Han4", "yu3"] },*/
-				{ fr: "langue chinoise", zh: "", pinyin: ["Zhong1", "wen2"] },
-				{ fr: "caractère chinois", zh: "", pinyin: ["Han4", "zi4"] },
+				{ fr: "langue chinoise", zh: "中文", pinyin: ["Zhong1", "wen2"] },
+				{ fr: "caractère chinois", zh: "汉字", pinyin: ["Han4", "zi4"] },
 				/*{ fr: "femme", pinyin: ["nv3"] },*/
 				/*{ fr: "fils, enfant", pinyin: ["zi3"] },*/
-				{ fr: "bien, bon", zh: "", pinyin: ["hao3"] },
-				{ fr: "eau", zh: "", pinyin: ["shui3"] },
-				{ fr: "porte", zh: "", pinyin: ["men2"] },
-				{ fr: "roi", zh: "", pinyin: ["wang2"] },
+				{ fr: "bien, bon", zh: "好", pinyin: ["hao3"] },
+				{ fr: "eau", zh: "水", pinyin: ["shui3"] },
+				{ fr: "porte", zh: "门", pinyin: ["men2"] },
+				{ fr: "roi", zh: "王", pinyin: ["wang2"] },
 				/*{ fr: "femme, fille", pinyin: ["nv3", "zi3"] },*/
 				/*{ fr: "entrée", pinyin: ["men2", "kou3"] },*/
 				/*{ fr: "roi (2)", pinyin: ["guo2", "wang2"] },*/
-				{ fr: "soleil", zh: "", pinyin: ["ri4"] },
-				{ fr: "lune", zh: "", pinyin: ["yue4"] },
-				{ fr: "bois", zh: "", pinyin: ["mu4"] },
-				{ fr: "cheval", zh: "", pinyin: ["ma3"] },
-				{ fr: "champ", zh: "", pinyin: ["tian2"] },
-				{ fr: "ciel", zh: "", pinyin: ["tian1"] },
-				{ fr: "lumineux", zh: "", pinyin: ["ming2"] },
-				{ fr: "forêt", zh: "", pinyin: ["lin2"] },
-				{ fr: "mère", zh: "", pinyin: ["ma1"] },
-				{ fr: "rivière", zh: "", pinyin: ["he2"] }						
+				{ fr: "soleil", zh: "日", pinyin: ["ri4"] },
+				{ fr: "lune", zh: "月", pinyin: ["yue4"] },
+				{ fr: "bois", zh: "木", pinyin: ["mu4"] },
+				{ fr: "cheval", zh: "马", pinyin: ["ma3"] },
+				{ fr: "champ", zh: "田", pinyin: ["tian2"] },
+				{ fr: "ciel", zh: "天", pinyin: ["tian1"] },
+				{ fr: "lumineux", zh: "明亮", pinyin: ["ming2"] },
+				{ fr: "forêt", zh: "林", pinyin: ["lin2"] },
+				{ fr: "mère", zh: "妈妈", pinyin: ["ma1", "ma"] },
+				{ fr: "rivière", zh: "河", pinyin: ["he2"] }						
 			]
 		},
 		{
