@@ -92,7 +92,7 @@ var hanziben =
 				{ fr: "entreprise", zh: "公司", pinyin: ["gong1", "si1"] },
 				{ fr: "travailler, travail", zh: "工作", pinyin: ["gong1", "zuo4"] },
 				{ fr: "université", zh: "大学", pinyin: ["da4", "xue2"] },
-				{ fr: "département", zh: "系", pinyin: ["xi4"] },
+				/*{ fr: "département", zh: "系", pinyin: ["xi4"] },*/
 				{ fr: "pouvoir", zh: "可以", pinyin: ["ke3", "yi3"] },
 				{ fr: "donner, à,<br/>pour", zh: "给", pinyin: ["gei3"] },
 				{ fr: "téléphoner", zh: "打电话", pinyin: ["da3", "dian4", "hua4"] },
@@ -144,7 +144,7 @@ var hanziben =
 				{ fr: "ne pas", zh: "没", pinyin: ["mei2"] },
 				{ fr: "1'000", zh: "千", pinyin: ["qian1"] },
 				{ fr: "aller", zh: "去", pinyin: ["qu4"] },
-				{ fr: "branche", zh: "分", pinyin: ["fen1"] },
+				/*{ fr: "branche", zh: "分", pinyin: ["fen1"] },*/
 				{ fr: "boss", zh: "老板", pinyin: ["lao3", "ban3"] },
 				{ fr: "laisser,<br/>permettre", zh: "让", pinyin: ["rang4"] },
 				{ fr: "100", zh: "百", pinyin: ["bai3"] },
@@ -184,7 +184,6 @@ var hanziben =
 		},
 		{
 			lesson: "5",
-			checked: true,
 			words: [
 				{ fr: "mademoiselle", zh: "小姐", pinyin: ["xiao3", "jie3"] },
 				{ fr: "savoir faire<br/>qqch", zh: "会", pinyin: ["hui4"] },
@@ -224,7 +223,47 @@ var hanziben =
 				{ fr: "magasin", zh: "商店", pinyin: ["shang1", "dian4"] },
 				{ fr: "vendre", zh: "卖", pinyin: ["mai4"] },
 				{ fr: "vêtements", zh: "衣服", pinyin: ["yi1", "fu"] }
+			]			
+		},
+		{
+			lesson: "6 (partie 1)",
+			words: [
+				{ fr: "semaine", zh: "星期", pinyin: ["xing1", "qi1"] },
+				{ fr: "envisager", zh: "打算", pinyin: ["da3", "suan"] },
+				{ fr: "soir", zh: "晚上", pinyin: ["wan3", "shang"] },
+				{ fr: "rendez-vous", zh: "约会", pinyin: ["yue1", "hui4"] },
+				{ fr: "dans", zh: "里", pinyin: ["li3"] },
+				{ fr: "se reposer", zh: "休息", pinyin: ["xiu1", "xi"] },
+				{ fr: "ballon", zh: "球", pinyin: ["qiu2"] },
+				{ fr: "avec", zh: "跟", pinyin: ["gen1"] },
+				{ fr: "ensemble", zh: "一起", pinyin: ["yi4", "qi3"] },
+				{ fr: "télévision", zh: "电视", pinyin: ["dian4", "shi4"] }
+			]			
+		},
+		{
+			lesson: "6 (partie 2)",
+			checked: true,
+			words: [
+				{ fr: "spécificatif<br/>(politesse)", zh: "位", pinyin: ["wei4"] },
+				{ fr: "affaires", zh: "事儿", pinyin: ["shir4", ""] },
+				{ fr: "café", zh: "咖啡", pinyin: ["ka1", "fei1"] },
+				{ fr: "temps", zh: "时候", pinyin: ["shi2", "hou4"] },
+				{ fr: "aujourd'hui", zh: "今天", pinyin: ["jin1", "tian1"] },
+				{ fr: "occupé", zh: "忙", pinyin: ["mang2"] },
+				{ fr: "faire", zh: "做", pinyin: ["zuo4"] },
+				{ fr: "devoirs", zh: "功课", pinyin: ["gong1", "ke4"] },
+				{ fr: "de rien", zh: "没关系", pinyin: ["mei2", "guan1", "xi"] },
+				{ fr: "temps libre", zh: "空儿", pinyin: ["kongr4", ""] },
+				{ fr: "heure", zh: "点钟", pinyin: ["dian3", "zhong1"] },
+				{ fr: "demi", zh: "半", pinyin: ["ban4"] },
+				{ fr: "se rencontrer", zh: "见面", pinyin: ["jian4", "mian4"] },
+				{ fr: "quart d'heure", zh: "刻", pinyin: ["ke4"] },
+				{ fr: "accueillir", zh: "接", pinyin: ["jie1"] },
+				{ fr: "au revoir", zh: "再见", pinyin: ["zai4", "jian1"] },
+				{ fr: "maintenant", zh: "现在", pinyin: ["xian4", "zai4"] },
+				{ fr: "minute", zh: "分", pinyin: ["fen1"] },
+				{ fr: "petit matin", zh: "早上", pinyin: ["zao3", "shang4"] },
+				{ fr: "après-midi", zh: "下午", pinyin: ["xia4", "wu3"] }
 			]
-			
 		}
 	]
