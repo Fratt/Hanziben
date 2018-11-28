@@ -88,7 +88,7 @@ var hanziben =
 				{ fr: "très", zh: "很", pinyin: ["hen3"] },
 				{ fr: "heureux, content", zh: "高兴", pinyin: ["gao1", "xing4"] },
 				{ fr: "(être) dans,<br/>en, sur...", zh: "在", pinyin: ["zai4"] },
-				{ fr: "import-export", zh: "进出口", pinyin: ["jin4", "chu1", "kou3"] },
+				/* { fr: "import-export", zh: "进出口", pinyin: ["jin4", "chu1", "kou3"] }, */
 				{ fr: "entreprise", zh: "公司", pinyin: ["gong1", "si1"] },
 				{ fr: "travailler, travail", zh: "工作", pinyin: ["gong1", "zuo4"] },
 				{ fr: "université", zh: "大学", pinyin: ["da4", "xue2"] },
@@ -226,7 +226,7 @@ var hanziben =
 			]			
 		},
 		{
-			lesson: "6 (partie 1)",
+			lesson: "6",
 			words: [
 				{ fr: "semaine", zh: "星期", pinyin: ["xing1", "qi1"] },
 				{ fr: "envisager", zh: "打算", pinyin: ["da3", "suan"] },
@@ -237,13 +237,7 @@ var hanziben =
 				{ fr: "ballon", zh: "球", pinyin: ["qiu2"] },
 				{ fr: "avec", zh: "跟", pinyin: ["gen1"] },
 				{ fr: "ensemble", zh: "一起", pinyin: ["yi4", "qi3"] },
-				{ fr: "télévision", zh: "电视", pinyin: ["dian4", "shi4"] }
-			]			
-		},
-		{
-			lesson: "6 (partie 2)",
-			checked: true,
-			words: [
+				{ fr: "télévision", zh: "电视", pinyin: ["dian4", "shi4"] },
 				{ fr: "spécificatif<br/>(politesse)", zh: "位", pinyin: ["wei4"] },
 				{ fr: "affaires", zh: "事儿", pinyin: ["shir4", ""] },
 				{ fr: "café", zh: "咖啡", pinyin: ["ka1", "fei1"] },
@@ -265,5 +259,54 @@ var hanziben =
 				{ fr: "petit matin", zh: "早上", pinyin: ["zao3", "shang4"] },
 				{ fr: "après-midi", zh: "下午", pinyin: ["xia4", "wu3"] }
 			]
+		},
+		{
+			lesson: "7",
+			words: [
+				{ fr: "prendre<br/>des vacances", zh: "放假", pinyin: ["fang4", "jia4"] },
+				{ fr: "dernière décade<br/>d'un mois", zh: "下旬", pinyin: ["xia4", "xun2"] },
+				{ fr: "après", zh: "以后", pinyin: ["yi3", "hou4"] },
+				{ fr: "avant", zh: "以前", pinyin: ["yi3", "qian2"] },
+				{ fr: "voyager", zh: "旅行", pinyin: ["lv3", "xing2"] },
+				{ fr: "ou", zh: "或者", pinyin: ["huo4", "zhe3"] },
+				{ fr: "rentrer", zh: "回", pinyin: ["hui2"] },
+				{ fr: "s'inquiéter", zh: "担心", pinyin: ["dan1", "xin1"] },
+				{ fr: "ne pas", zh: "别", pinyin: ["bie2"] },
+				{ fr: "aider", zh: "帮助", pinyin: ["bang1", "zhu4"] },
+				{ fr: "entrer", zh: "进", pinyin: ["jin4"] },
+				{ fr: "chercher", zh: "找", pinyin: ["zhao3"] },
+				{ fr: "porter", zh: "戴", pinyin: ["dai4"] },
+				{ fr: "spécificatif<br/>(lunettes)", zh: "副", pinyin: ["fu4"] },
+				{ fr: "lunettes", zh: "眼镜", pinyin: ["yan3", "jing4"] },
+				{ fr: "chacun", zh: "每", pinyin: ["mei3"] },
+				{ fr: "mince", zh: "瘦", pinyin: ["shou4"] },
+				{ fr: "cheveux", zh: "头发", pinyin: ["tou2", "fa1"] },
+				{ fr: "long", zh: "长", pinyin: ["chang2"] },
+				{ fr: "habiller", zh: "穿", pinyin: ["chuan1"] },
+				{ fr: "jeans", zh: "牛仔裤", pinyin: ["niu2", "zai3", "ku4"] },
+				{ fr: "venir de", zh: "刚", pinyin: ["gang1"] },
+				{ fr: "sortir", zh: "出", pinyin: ["chu1"] },
+				{ fr: "traverser", zh: "过", pinyin: ["guo4"] },
+				{ fr: "année", zh: "年", pinyin: ["nian2"] }
+			]
+		},
+		{
+			lesson: "8 (partie 1)",
+			checked: true,
+			words: [
+				{ fr: "près de", zh: "附近", pinyin: ["fu4", "jin4"] },
+				{ fr: "banque", zh: "银行", pinyin: ["hin2", "hang2"] },
+				{ fr: "de", zh: "离", pinyin: ["li2"] },
+				{ fr: "loin", zh: "远", pinyin: ["yuan3"] },
+				{ fr: "marcher", zh: "走", pinyin: ["zou3"] },
+				{ fr: "à, vers", zh: "往", pinyin: ["wang3"] },
+				{ fr: "droite", zh: "右", pinyin: ["you4"] },
+				{ fr: "tourner", zh: "拐", pinyin: ["guai3"] },
+				{ fr: "rue", zh: "路", pinyin: ["lu4"] },
+				{ fr: "juste", zh: "就", pinyin: ["jiu4"] },
+				{ fr: "bureau de poste", zh: "邮局", pinyin: ["you2", "ju2"] },
+				{ fr: "à côté", zh: "旁边", pinyin: ["pang2", "bian1"] },
+				{ fr: "de rien", zh: "不客气", pinyin: ["bu2", "ke4", "qi"] }
+			]
 		}
-	]
+	];
