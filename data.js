@@ -291,7 +291,7 @@ var hanziben =
 			]
 		},
 		{
-			lesson: "8 (partie 1)",
+			lesson: "8",
 			checked: true,
 			words: [
 				{ fr: "près de", zh: "附近", pinyin: ["fu4", "jin4"] },
@@ -307,6 +307,18 @@ var hanziben =
 				{ fr: "bureau de poste", zh: "邮局", pinyin: ["you2", "ju2"] },
 				{ fr: "à côté", zh: "旁边", pinyin: ["pang2", "bian1"] },
 				{ fr: "de rien", zh: "不客气", pinyin: ["bu2", "ke4", "qi"] }
+				{ fr: "centre-ville", zh: "市中心", pinyin: ["shi4", "zhong1", "xin1"] },
+				{ fr: "dire", zh: "告诉", pinyin: ["gao4", "su"] },
+				{ fr: "métro", zh: "地铁", pinyin: ["di4", "tie3"] },
+				{ fr: "de, depuis", zh: "从", pinyin: ["cong2"] },
+				{ fr: "arriver", zh: "到", pinyin: ["dao4"] },
+				{ fr: "bus", zh: "公共汽车", pinyin: ["gong1", "gong4", "qi4", "che1"] },
+				{ fr: "station", zh: "站", pinyin: ["zhan4"] },
+				{ fr: "changer", zh: "换", pinyin: ["huan4"] },
+				{ fr: "monter<br />(cheval)", zh: "骑", pinyin: ["qi2"] },
+				{ fr: "vélo", zh: "自行车", pinyin: ["zi4", "xing2", "che1"] },
+				{ fr: "gauche", zh: "左", pinyin: ["zuo3"] },
+				{ fr: "dehors", zh: "外面", pinyin: ["wai4", "mian"] }
 			]
 		}
 	];
