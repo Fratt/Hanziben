@@ -306,7 +306,7 @@ var hanziben =
 				{ fr: "juste", zh: "就", pinyin: ["jiu4"] },
 				{ fr: "bureau de poste", zh: "邮局", pinyin: ["you2", "ju2"] },
 				{ fr: "à côté", zh: "旁边", pinyin: ["pang2", "bian1"] },
-				{ fr: "de rien", zh: "不客气", pinyin: ["bu2", "ke4", "qi"] }
+				{ fr: "de rien", zh: "不客气", pinyin: ["bu2", "ke4", "qi"] },
 				{ fr: "centre-ville", zh: "市中心", pinyin: ["shi4", "zhong1", "xin1"] },
 				{ fr: "dire", zh: "告诉", pinyin: ["gao4", "su"] },
 				{ fr: "métro", zh: "地铁", pinyin: ["di4", "tie3"] },
