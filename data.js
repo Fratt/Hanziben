@@ -292,7 +292,6 @@ var hanziben =
 		},
 		{
 			lesson: "8",
-			checked: true,
 			words: [
 				{ fr: "près de", zh: "附近", pinyin: ["fu4", "jin4"] },
 				{ fr: "banque", zh: "银行", pinyin: ["hin2", "hang2"] },
@@ -319,6 +318,30 @@ var hanziben =
 				{ fr: "vélo", zh: "自行车", pinyin: ["zi4", "xing2", "che1"] },
 				{ fr: "gauche", zh: "左", pinyin: ["zuo3"] },
 				{ fr: "dehors", zh: "外面", pinyin: ["wai4", "mian"] }
+			]
+		},
+		{
+			lesson: "Panda",
+			checked: true,
+			words: [
+				{ fr: "panda", zh: "熊猫", pinyin: ["xiong2", "mao1"] },
+				{ fr: "il (animal)", zh: "它", pinyin: ["ta1"] },
+				{ fr: "oreille", zh: "耳朵", pinyin: ["er3", "duo"] },
+				{ fr: "oeil", zh: "眼睛", pinyin: ["yan3", "jing"] },
+				{ fr: "queue", zh: "尾巴", pinyin: ["wei3", "ba"] },
+				{ fr: "court", zh: "短", pinyin: ["duan3"] },
+				{ fr: "corps,<br/>santé", zh: "身体", pinyin: ["shen1", "ti3"] },
+				{ fr: "gros", zh: "胖", pinyin: ["pang4"] },
+				{ fr: "grimper", zh: "爬", pinyin: ["pa2"] },
+				{ fr: "dormir", zh: "睡觉", pinyin: ["shui4", "jiao4"] },
+				{ fr: "paresseux", zh: "懒", pinyin: ["lan3"] },
+				{ fr: "conduire", zh: "开", pinyin: ["kai1"] },
+				{ fr: "nuit", zh: "夜", pinyin: ["ye4"] },
+				{ fr: "bambou", zh: "竹子", pinyin: ["zhu2", "zi"] },
+				{ fr: "spécificatif<br/>(repas)", zh: "顿", pinyin: ["dun4"] },
+				{ fr: "hamburger", zh: "汉堡包", pinyin: ["han4", "bao3", "bao1"] },
+				{ fr: "vivre", zh: "生活", pinyin: ["sheng1", "huo2"] },
+				{ fr: "province", zh: "省", pinyin: ["sheng3"] }
 			]
 		}
 	];
