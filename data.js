@@ -1,7 +1,7 @@
 var hanziben =
 	[
 		{
-			lesson: "0",
+			lesson: "0 (V1)",
 			words: [
 				{ fr: "un", zh: "一", pinyin: ["yi1"] },
 				{ fr: "deux", zh: "二", pinyin: ["er4"] },
@@ -52,7 +52,7 @@ var hanziben =
 			]
 		},
 		{
-			lesson: "1",
+			lesson: "1 (V1)",
 			words: [
 				{ fr: "vous", zh: "您", pinyin: ["nin2"] },
 				/*{ fr: "honorable", pinyin: ["gui4"] },*/
@@ -82,7 +82,7 @@ var hanziben =
 			]
 		},
 		{
-			lesson: "2",
+			lesson: "2 (V1)",
 			words: [
 				{ fr: "connaître", zh: "认识", pinyin: ["ren4", "shi"] },
 				{ fr: "très", zh: "很", pinyin: ["hen3"] },
@@ -119,7 +119,7 @@ var hanziben =
 			]
 		},
 		{
-			lesson: "3",
+			lesson: "3 (V1)",
 			words: [
 				{ fr: "endroit", zh: "地方", pinyin: ["di4", "fang"] },
 				{ fr: "<i>spécificatif</i>", zh: "个", pinyin: ["ge4"] },
@@ -152,7 +152,7 @@ var hanziben =
 			]
 		},
 		{
-			lesson: "4",
+			lesson: "4 (V1)",
 			words: [
 				{ fr: "carte", zh: "地图", pinyin: ["di4", "tu2"] },
 				{ fr: "<i>spécif.<br/>(papier)</i>", zh: "张", pinyin: ["zhang1"] },
@@ -183,7 +183,7 @@ var hanziben =
 			]
 		},
 		{
-			lesson: "5",
+			lesson: "5 (V1)",
 			words: [
 				{ fr: "mademoiselle", zh: "小姐", pinyin: ["xiao3", "jie3"] },
 				{ fr: "savoir faire<br/>qqch", zh: "会", pinyin: ["hui4"] },
@@ -226,7 +226,7 @@ var hanziben =
 			]			
 		},
 		{
-			lesson: "6",
+			lesson: "6 (V1)",
 			words: [
 				{ fr: "semaine", zh: "星期", pinyin: ["xing1", "qi1"] },
 				{ fr: "envisager", zh: "打算", pinyin: ["da3", "suan"] },
@@ -261,7 +261,7 @@ var hanziben =
 			]
 		},
 		{
-			lesson: "7",
+			lesson: "7 (V1)",
 			words: [
 				{ fr: "prendre<br/>des vacances", zh: "放假", pinyin: ["fang4", "jia4"] },
 				{ fr: "dernière décade<br/>d'un mois", zh: "下旬", pinyin: ["xia4", "xun2"] },
@@ -271,7 +271,7 @@ var hanziben =
 				{ fr: "ou", zh: "或者", pinyin: ["huo4", "zhe3"] },
 				{ fr: "rentrer", zh: "回", pinyin: ["hui2"] },
 				{ fr: "s'inquiéter", zh: "担心", pinyin: ["dan1", "xin1"] },
-				{ fr: "ne pas", zh: "别", pinyin: ["bie2"] },
+				/*{ fr: "ne pas", zh: "别", pinyin: ["bie2"] },*/
 				{ fr: "aider", zh: "帮助", pinyin: ["bang1", "zhu4"] },
 				{ fr: "entrer", zh: "进", pinyin: ["jin4"] },
 				{ fr: "chercher", zh: "找", pinyin: ["zhao3"] },
@@ -291,7 +291,7 @@ var hanziben =
 			]
 		},
 		{
-			lesson: "8",
+			lesson: "8 (V1)",
 			words: [
 				{ fr: "près de", zh: "附近", pinyin: ["fu4", "jin4"] },
 				{ fr: "banque", zh: "银行", pinyin: ["hin2", "hang2"] },
@@ -321,8 +321,7 @@ var hanziben =
 			]
 		},
 		{
-			lesson: "Panda",
-			checked: true,
+			lesson: "Panda (V1)",
 			words: [
 				{ fr: "panda", zh: "熊猫", pinyin: ["xiong2", "mao1"] },
 				{ fr: "il (animal)", zh: "它", pinyin: ["ta1"] },
@@ -332,7 +331,7 @@ var hanziben =
 				{ fr: "court", zh: "短", pinyin: ["duan3"] },
 				{ fr: "corps,<br/>santé", zh: "身体", pinyin: ["shen1", "ti3"] },
 				{ fr: "gros", zh: "胖", pinyin: ["pang4"] },
-				{ fr: "grimper", zh: "爬", pinyin: ["pa2"] },
+				{ fr: "grimper<br/>(animal)", zh: "爬", pinyin: ["pa2"] },
 				{ fr: "dormir", zh: "睡觉", pinyin: ["shui4", "jiao4"] },
 				{ fr: "paresseux", zh: "懒", pinyin: ["lan3"] },
 				{ fr: "conduire", zh: "开", pinyin: ["kai1"] },
@@ -342,6 +341,35 @@ var hanziben =
 				{ fr: "hamburger", zh: "汉堡包", pinyin: ["han4", "bao3", "bao1"] },
 				{ fr: "vivre", zh: "生活", pinyin: ["sheng1", "huo2"] },
 				{ fr: "province", zh: "省", pinyin: ["sheng3"] }
+			]
+		},
+		{
+			lesson: "1 (V2)",
+			words: [
+				{ fr: "chien", zh: "狗", pinyin: ["gou3"] },
+				{ fr: "élever", zh: "养", pinyin: ["yang3"] },
+				{ fr: "fleur", zh: "花儿", pinyin: ["huar1", ""] },
+				{ fr: "oiseau", zh: "鸟儿", pinyin: ["niaor3", ""] },
+				{ fr: "mais", zh: "但是", pinyin: ["dan4", "shi4"] },
+				{ fr: "on dit", zh: "听说", pinyin: ["ting1","shuo1"] },
+				{ fr: "ville", zh: "城市", pinyin: ["cheng2","shi4"] },
+				{ fr: "chat", zh: "猫", pinyin: ["mao1"] },
+				{ fr: "animal", zh: "动物", pinyin: ["dong4", "wu4"] },
+				{ fr: "ennuyeux", zh: "麻烦", pinyin: ["ma2", "fan"] },
+				{ fr: "temps", zh: "时间", pinyin: ["shi2", "jian1"] },
+				{ fr: "soi-même", zh: "自己", pinyin: ["zi4", "ji3"] },
+				{ fr: "faire", zh: "办", pinyin: ["ban4"] },
+				{ fr: "connaître", zh: "熟悉", pinyin: ["shu2","xi1"] },
+				{ fr: "spécificatif<br/>pluriel", zh: "些", pinyin: ["xie1"] },
+				{ fr: "photo", zh: "照片", pinyin: ["zhao4", "pian4"] },
+				{ fr: "grimper<br/>(homme)", zh: "登", pinyin: ["deng1"] },
+				{ fr: "autre", zh: "别的", pinyin: ["bie2", "de"] },
+				{ fr: "accueillir", zh: "欢迎", pinyin: ["huan1", "ying2"] },
+				{ fr: "accompagner", zh: "陪", pinyin: ["pei2"] },
+				{ fr: "devoir", zh: "得", pinyin: ["dei3"] },
+				{ fr: "billet<br/>d'avion", zh: "飞机票", pinyin: ["fei1", "ji1", "piao4"] },
+				{ fr: "donc", zh: "所以", pinyin: ["suo3", "yi3"] },
+				{ fr: "prendre une<br/>photo", zh: "拍照", pinyin: ["pai1", "zhao4"] }
 			]
 		}
 	];
