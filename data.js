@@ -371,5 +371,23 @@ var hanziben =
 				{ fr: "donc", zh: "所以", pinyin: ["suo3", "yi3"] },
 				{ fr: "prendre une<br/>photo", zh: "拍照", pinyin: ["pai1", "zhao4"] }
 			]
+		},
+		{
+			lesson: "2 (V2) (partie 1)",
+			checked: true,
+			words: [
+				{ fr: "habiter", zh: "住", pinyin: ["zhu4"] },
+				{ fr: "dortoir", zh: "宿舍", pinyin: ["su4", "she4"] },
+				{ fr: "cantine", zh: "餐厅", pinyin: ["can1", "ting1"] },
+				{ fr: "être en</br>train de", zh: "正在", pinyin: ["zheng4", "zai4"] },
+				{ fr: "dormir", zh: "睡觉", pinyin: ["shui4", "jiao4"] },
+				{ fr: "sûr,<br/>certain", zh: "肯定", pinyin: ["ke3", "ding4"] },
+				{ fr: "déjà", zh: "已经", pinyin: ["yi3", "jing1"] },
+				{ fr: "se lever", zh: "起床", pinyin: ["qi3", "chuang2"] },
+				{ fr: "tort", zh: "错", pinyin: ["cuo4"] },
+				{ fr: "hôpital", zh: "医院", pinyin: ["yi1", "yuan4"] },
+				{ fr: "maladie", zh: "病", pinyin: ["bing4"] },
+				{ fr: "confortable", zh: "舒服", pinyin: ["shu1", "fu"] }
+			]
 		}
 	];
