@@ -381,7 +381,7 @@ var hanziben =
 				{ fr: "cantine", zh: "餐厅", pinyin: ["can1", "ting1"] },
 				{ fr: "être en</br>train de", zh: "正在", pinyin: ["zheng4", "zai4"] },
 				{ fr: "dormir", zh: "睡觉", pinyin: ["shui4", "jiao4"] },
-				{ fr: "sûr,<br/>certain", zh: "肯定", pinyin: ["ke3", "ding4"] },
+				{ fr: "sûr,<br/>certain", zh: "肯定", pinyin: ["ken3", "ding4"] },
 				{ fr: "déjà", zh: "已经", pinyin: ["yi3", "jing1"] },
 				{ fr: "se lever", zh: "起床", pinyin: ["qi3", "chuang2"] },
 				{ fr: "tort", zh: "错", pinyin: ["cuo4"] },
