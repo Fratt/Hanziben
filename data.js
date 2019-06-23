@@ -373,7 +373,8 @@ var hanziben =
 			]
 		},
 		{
-			lesson: "2 (V2) (partie 1)",
+			lesson: "2 (V2)",
+			checked: true,
 			words: [
 				{ fr: "habiter", zh: "住", pinyin: ["zhu4"] },
 				{ fr: "dortoir", zh: "宿舍", pinyin: ["su4", "she4"] },
@@ -386,13 +387,7 @@ var hanziben =
 				{ fr: "tort", zh: "错", pinyin: ["cuo4"] },
 				{ fr: "hôpital", zh: "医院", pinyin: ["yi1", "yuan4"] },
 				{ fr: "maladie", zh: "病", pinyin: ["bing4"] },
-				{ fr: "confortable", zh: "舒服", pinyin: ["shu1", "fu"] }
-			]
-		},
-		{
-			lesson: "2 (V2) (partie 2)",
-			checked: true,
-			words: [
+				{ fr: "confortable", zh: "舒服", pinyin: ["shu1", "fu"] },
 				{ fr: "ventre", zh: "肚子", pinyin: ["du4", "zi"] },
 				{ fr: "avoir mal", zh: "疼", pinyin: ["teng2"] },
 				{ fr: "propre", zh: "干净", pinyin: ["gan1", "jing4"] },
