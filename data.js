@@ -374,7 +374,6 @@ var hanziben =
 		},
 		{
 			lesson: "2 (V2)",
-			checked: true,
 			words: [
 				{ fr: "habiter", zh: "住", pinyin: ["zhu4"] },
 				{ fr: "dortoir", zh: "宿舍", pinyin: ["su4", "she4"] },
@@ -398,6 +397,25 @@ var hanziben =
 				{ fr: "être<br/>anxieux", zh: "着急", pinyin: ["zhao2", "ji2"] },
 				{ fr: "finir de", zh: "完", pinyin: ["wan2"] },
 				{ fr: "toilettes", zh: "厕所", pinyin: ["ce4", "suo3"] }
+			]
+		},
+		{
+			lesson: "3 (V2) - Partie 1",
+			checked: true,
+			words: [
+				{ fr: "emprunter", zh: "借", pinyin: ["jie4"] },
+				{ fr: "chambre", zh: "房间", pinyin: ["fang2", "jian1"] },
+				{ fr: "prendre", zh: "拿", pinyin: ["na2"] },
+				{ fr: "histoire", zh: "历史", pinyin: ["li4", "shi3"] },
+				{ fr: "musée", zh: "博物馆", pinyin: ["bo2", "wu4", "guan3"] },
+				{ fr: "parents", zh: "父母亲", pinyin: ["fu4", "mu3", "qin1"] },
+				{ fr: "train", zh: "火车", pinyin: ["huo3", "che1"] },
+				{ fr: "-ième", zh: "第", pinyin: ["di4"] },
+				{ fr: "fois", zh: "次", pinyin: ["ci4"] },
+				{ fr: "économie", zh: "经济", pinyin: ["jing1", "ji4"] },
+				{ fr: "culture", zh: "文化", pinyin: ["wen2", "hua4"] },
+				{ fr: "s'intéresser à", zh: "对…感兴趣", pinyin: ["dui", "…", "gan3", "xing4", "qu4"] },
+				{ fr: "sinologue", zh: "中国通", pinyin: ["Zhong1", "guo2", "tong1"] }
 			]
 		}
 	];
